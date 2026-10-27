@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
