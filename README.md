@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
