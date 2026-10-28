@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -87,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
