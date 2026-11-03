@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/2469-convert-the-temperature) |
