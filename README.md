@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Trie
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
