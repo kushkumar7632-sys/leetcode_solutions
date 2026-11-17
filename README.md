@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 ## Counting
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
