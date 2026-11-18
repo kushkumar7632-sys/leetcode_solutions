@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
