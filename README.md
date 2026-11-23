@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/kushkumar7632-sys/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
 | ------- |
